@@ -1,12 +1,10 @@
-/* CSS GENERAL */
-.bg-azul {
-  background: linear-gradient(to bottom, lightblue, transparent); }
+.img {
+  width: 100px;
+  height: 75px; }
 
-.bg-azulInvertido {
-  background: linear-gradient(to top, lightblue, transparent); }
-
-.col-12, .col-lg-12 {
-  padding: 0; }
+.imgg {
+  width: 350px;
+  height: 150px; }
 
 /* VISTA MOBILE */
 @media only screen and (max-width: 768px) {
@@ -28,10 +26,12 @@
   .card {
     margin: 0 10px; } }
 
-.img {
-  width: 100px;
-  height: 75px; }
+/* CSS GENERAL */
+.bg-azul {
+  background: linear-gradient(to bottom, lightblue, transparent); }
 
-.imgg {
-  width: 350px;
-  height: 150px; }
+.bg-azulInvertido {
+  background: linear-gradient(to top, lightblue, transparent); }
+
+.col-12, .col-lg-12 {
+  padding: 0; }
