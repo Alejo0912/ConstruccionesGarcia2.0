@@ -9,11 +9,11 @@
 
 }
 /* VISTA DESKTOP */
-@media only screen and (min-width:1024px)
+@media only screen and (min-width:1024px){
     a{font-size:1.8rem; color:black; border-radius:20px; transition:all 2s;}
-    a:hover{background-color:lightblue;border-radius: 20px;}
+    a:hover{background-color: lightblue;border-radius: 20px;}
     .card {margin: 0 10px;}
-    
+}
 .img{ width: 100px;
     height: 75px;
 }
