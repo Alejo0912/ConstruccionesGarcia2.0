@@ -5,9 +5,9 @@
 div{
     @include bgColor(to bottom, lightblue, transparent);
 }
-.ucard {
-@extend .card;
+.img {
+@extend .img;
 > .ucard {
-    @extend .ucard
+    @extend .img
 }
 }
