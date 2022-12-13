@@ -3,5 +3,5 @@
     background-color: $Color;
 }
 header, footer {
-    @include bgColor(lightblue);
+    @include bgColor(lightblue, transparent);
 }
