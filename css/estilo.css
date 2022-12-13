@@ -38,3 +38,12 @@
 
 header {
   background-color: lightblue; }
+
+.bg-azul {
+  background: linear-gradient(to bottom, lightblue, transparent); }
+
+.bg-azulInvertido {
+  background: linear-gradient(to top, lightblue, transparent); }
+
+.col-12, .col-lg-12 {
+  padding: 0; }
