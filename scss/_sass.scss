@@ -8,6 +8,6 @@ div{
 .ucard {
 @extend .card;
 > img {
-    @extend .img
+    @extend .ucard
 }
 }
