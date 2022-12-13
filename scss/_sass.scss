@@ -2,6 +2,6 @@
 @mixin linear-gradient($background) {
     background-color: $Color;
 }
-header{
+div{
     @include bgColor(to bottom, lightblue, transparent);
 }
