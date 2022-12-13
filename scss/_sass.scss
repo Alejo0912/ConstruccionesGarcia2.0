@@ -1,0 +1,7 @@
+//mixin
+@mixin bgColor($Color) {
+    background-color: $Color;
+}
+header, footer {
+    @include bgColor(lightblue);
+}
