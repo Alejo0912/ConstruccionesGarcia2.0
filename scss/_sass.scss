@@ -7,7 +7,7 @@ div{
 }
 .ucard {
 @extend .card;
-> img {
+> .ucard {
     @extend .ucard
 }
 }
