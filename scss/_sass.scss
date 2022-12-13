@@ -1,5 +1,5 @@
 //mixin
-@mixin bgColor($Color) {
+@mixin linear-gradient($Color) {
     background-color: $Color;
 }
 header{
