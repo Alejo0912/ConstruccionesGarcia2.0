@@ -1,7 +1,3 @@
-.img {
-  width: 100px;
-  height: 75px; }
-
 .imgg {
   width: 350px;
   height: 150px; }
@@ -27,23 +23,14 @@
     margin: 0 10px; } }
 
 /* CSS GENERAL */
-.bg-azul {
-  background: linear-gradient(to bottom, lightblue, transparent); }
-
 .bg-azulInvertido {
   background: linear-gradient(to top, lightblue, transparent); }
 
 .col-12, .col-lg-12 {
   padding: 0; }
 
-header {
-  background-color: lightblue; }
-
-.bg-azul {
-  background: linear-gradient(to bottom, lightblue, transparent); }
-
-.bg-azulInvertido {
-  background: linear-gradient(to top, lightblue, transparent); }
-
-.col-12, .col-lg-12 {
-  padding: 0; }
+.footer {
+  padding: 1em 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
