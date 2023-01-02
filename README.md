@@ -1,2 +1,4 @@
 En el index agregue etiqueta meta name description y keywords
-Mixin y extend agregados para el desafio
+footer mejorado
+imagenes con buena resolucion
+animaciones usadas: carrusel en inicio y nosotros, acordeon en servicios y card en productos
