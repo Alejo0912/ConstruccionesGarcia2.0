@@ -33,9 +33,14 @@
 .col-12, .col-lg-12 {
   padding: 0; }
 
-.footer {
-  width: 100%;
-  height: 300px; }
+.table {
+  margin-bottom: 30px; }
 
-.container {
-  min-height: calc(100vh - 100px - 300px); }
+.img-fluid {
+  margin-bottom: 30px; }
+
+.card {
+  margin-bottom: 100px; }
+
+.iframe {
+  margin-bottom: 30px; }
